@@ -1,0 +1,22 @@
+{
+  "name": "tobecontributor",
+  "version": "1.0.0",
+  "description": "to be contributor",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaaaiSir/tobeContributor.git"
+  },
+  "author": "kaaaiSir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaaaiSir/tobeContributor/issues"
+  },
+  "homepage": "https://github.com/kaaaiSir/tobeContributor#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
