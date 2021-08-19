@@ -11,8 +11,8 @@ start to be qualified contributor
     git checkout main(main为主库的分支)
 - 拉取主库的最新代码，(main为主库的分支)
     git fetch upstream main
-- 合并主库代码到 当前源的main分支
-    git merge upstream main(main为主库的分支)
+- 合并主库代码到 当前源的main本地分支
+    git merge upstream/main(main为主库的分支)
 - 提交代码到贡献者自己的库
     git push
 - 在贡献者自己的库中 create pull request 到主库对应的分支上，等待主库自动化测试通过，通过之后等待主库作者通过或驳回。
